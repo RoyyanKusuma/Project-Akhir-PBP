@@ -40,4 +40,4 @@ Reporting System
 •	Export functionality
 
 Cara menjalankan website (setup).
-http://localhost/resto-delight/
+http://localhost/resto-delight/setup.php
